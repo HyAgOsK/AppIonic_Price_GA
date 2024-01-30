@@ -1,0 +1,7 @@
+{
+  "name": "AppGasolinaAlcoolPreco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
